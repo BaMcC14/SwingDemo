@@ -1,2 +1,3 @@
 # SwingDemo
-Swing demo done in school 
+Swing demo done outside of school.
+This was just to play around with swing
